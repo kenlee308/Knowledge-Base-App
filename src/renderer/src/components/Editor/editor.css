@@ -1,0 +1,13 @@
+/* Wikilink styles */
+.cm-wikilink {
+    color: #a8c7fa;
+    /* Light Blue */
+    text-decoration: underline;
+    text-decoration-color: #a8c7fa40;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.cm-wikilink:hover {
+    background-color: #a8c7fa20;
+}
