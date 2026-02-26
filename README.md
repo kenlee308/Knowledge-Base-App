@@ -11,6 +11,8 @@ A local-first personal knowledge management application built with Electron, Rea
 - **Wikilinks:** Seamless `[[Note Name]]` linking for intuitive knowledge navigation.  
 - **Daily Notes:** Supports journaling to track learning progress in AI and technical skills.  
 
+https://www.youtube.com/watch?v=nlEBLwsmPAw&t=5s
+
 **How to Use:**  
 1. Install Dependencies: Run `npm install` in the `knowledge-base-app` directory.  
 2. Run Development: Run `npm run dev` to start the app in development mode.  
